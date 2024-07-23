@@ -1,0 +1,7 @@
+.site_heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    color: rgb(149, 237, 187);
+}
